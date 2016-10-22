@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MrPotatoHead</string>
+    <string name="potato_head_title">Interact With Mr Potato Head!</string>
+    <string name="body">Body</string>
+    <string name="mustache">Mustache</string>
+    <string name="nose">Nose</string>
+    <string name="hat">Hat</string>
+    <string name="mouth">Mouth</string>
+    <string name="arms">Arms</string>
+    <string name="instruction">Click a part to add/remove them!</string>
+    <string name="glasses">Glasses</string>
+    <string name="ears">Ears</string>
+    <string name="eyes">Eyes</string>
+    <string name="eyebrows">Eyebrows</string>
+    <string name="shoes">Shoes</string>
+</resources>
